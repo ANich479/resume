@@ -1,14 +1,17 @@
-# resume
-Resume | Data Analyst
 
-# 👋 안녕하세요, 데이터 사이언티스트 지망생입니다.
-### [금융/게임 분야에 관심을 가지고 데이터를 분석하고 해석하여 가치를 찾아내는 것을 목표로 하고 있습니다.]
+![Header](https://capsule-render.vercel.app/api?type=waving&color=5E548E&height=120&section=header&text=OOO's%20Data%20Science%20Portfolio&fontSize=40&fontColor=ffffff)
 
+# 👋 안녕하세요, 데이터로 인사이트를 얻고 가치를 만드는 Data Scientist로 성장하고 있는 OOO입니다.
+
+<br>
 
 ## 🙋‍♂️ About Me
-- 
-- 
-- 
+저는 통계 지식을 기반으로 R, Python을 활용하여 데이터의 숨겨진 패턴을 발견하고, 이를 명확하게 시각화하여 효과적인 커뮤니케이션을 통해 설득력 있는 인사이트를 도출하는 것에 강점이 있습니다.
+
+최근에는 Machine Learning 모델을 개발하는 것에서 나아가, MLOps 파이프라인 구축에 대한 기술에 깊은 관심을 두고 관련 프로젝트를 진행하며 역량을 확장하고 있습니다.
+
+저의 데이터 분석 경험과 문제 해결 역량을 통해 데이터 기반 의사결정을 돕고, 실질적인 성과를 창출할 수 있는 기회를 찾고 있습니다.
+
 
 ## 📊 GitHub Stats
 [![[ANich479]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ANich479&show_icons=true&theme=radical)](https://github.com/anuragroy/github-readme-stats)

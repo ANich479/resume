@@ -13,9 +13,16 @@
 저의 데이터 분석 경험과 문제 해결 역량을 통해 데이터 기반 의사결정을 돕고, 실질적인 성과를 창출할 수 있는 기회를 찾고 있습니다.
 
 
-## 📊 GitHub Stats
-[![[ANich479]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ANich479&show_icons=true&theme=radical)](https://github.com/anuragroy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANich479&layout=compact&theme=radical)](https://github.com/anuragroy/github-readme-stats)
+## 🎓 Education
+- **[단국대학교]** | **[정보통계학과]**
+  * *[2021.03 ~ ]* (재학)
+- **[Certification]**
+  * ADSP, SQLD, Linux master 2급, 컴퓨터활용능력1급, TOEIC715, 1종대형운전면허
+
+
+## 🌱 Learning Goals
+- 이번 오픈소스SW개발 과목을 계기로 머신러닝 모델 개발을 넘어, Docker, MLflow 등을 활용해 개발된 모델을 안정적으로 배포/운영하는 MLOps 역량을 확보하는 것을 목표로 하고 있습니다.
+- 제가 가지고 있는 전공 지식을 강화하고 심화하여 
 
 
 
@@ -59,17 +66,11 @@
 - **🔗 Repository:** [[링크]](https://github.com/ANich479/cardio-exercise-analysis)
 
 
-## 🎓 Education
-- **[단국대학교]** | **[통계학과]** (전공)
-  * *[2021.03 ~   (재학)]*
-- **[Certification]**
-  * ADSP, SQLD, Linux master 2급, 컴퓨터활용능력1급, TOEIC715, 1종대형운전면허
 
+## 📊 GitHub Stats
+[![[ANich479]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ANich479&show_icons=true&theme=radical)](https://github.com/anuragroy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANich479&layout=compact&theme=radical)](https://github.com/anuragroy/github-readme-stats)
 
-## 🌱 What I'm Learning
-- [기본적인 수리통계적 지식과 여러가지 통계/머신러닝 모델들에 대해서 학습하고 있습니다. 또한 ]
-- 
-- 
 
 ## 📬 Contact
 - 📧 **Email**: [juisaac7@gmail.com](mailto:your-email@gmail.com)

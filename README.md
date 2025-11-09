@@ -49,14 +49,14 @@
     - [KNN Regression, Linear Regression, Regression Tree, Random Forest Regression]
 - **사용 기술:** R, Rstudio
 - **성과:** 
-- **🔗 Repository:** [[링크]](     )
+- **🔗 Repository:** [[링크]](https://github.com/ANich479/US-Crime-Prediction)
 
 ### 2. [운동 여부가 심혈관 질환에 미치는 영향]
 - **설명:** [Kaggle의 Cardiovascular Disease dataset을 활용하여 운동 여부가 심혈관 질환 발생의 미치는 영향을 통계적으로 분석하였습니다. 이를 위해 공변량의 분포를 비교하고, 로지스틱 회귀 분석을 통해 운동 여부의 효과를 추정하였으며, 교호작용 및 모델의 예측력을 AUC 지표를 통해 추가적으로 검토하였습니다.]
 - **기간:** [2025]
 - **주요 기능:** ...
 - **사용 기술:** ... R, Rstudio
-- **🔗 Repository:** [[링크]](     )
+- **🔗 Repository:** [[링크]](https://github.com/ANich479/cardio-exercise-analysis)
 
 
 ## 🎓 Education

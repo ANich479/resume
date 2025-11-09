@@ -8,63 +8,87 @@
 ## 🙋‍♂️ About Me
 저는 통계 지식을 기반으로 R, Python을 활용하여 데이터의 숨겨진 패턴을 발견하고, 이를 명확하게 시각화하여 효과적인 커뮤니케이션을 통해 설득력 있는 인사이트를 도출하는 것에 강점이 있습니다.
 
-최근에는 Machine Learning 모델을 개발하는 것에서 나아가, MLOps 파이프라인 구축에 대한 기술에 깊은 관심을 두고 관련 프로젝트를 진행하며 역량을 확장하고 있습니다.
+최근에는 다양한 머신러닝 모델을 구축하고 성능을 객관적으로 비교/분석하여, 데이터 특성에 맞는 최적의 모델을 선정하고 그 근거를 제시하는 역량에 집중하고 있습니다.
 
 저의 데이터 분석 경험과 문제 해결 역량을 통해 데이터 기반 의사결정을 돕고, 실질적인 성과를 창출할 수 있는 기회를 찾고 있습니다.
 
+## ✨ Core Competencies
+- **데이터 분석 및 모델링:** Python(Pandas, Scikit-learn) 및 R을 활용하여 데이터 전처리, EDA, 머신러닝(회귀, 분류) 모델 구축 및 성능 평가
+- **통계적 추론 및 분석:** 로지스틱 회귀, 가설 검정 등 통계 지식을 기반으로 데이터의 유의미성을 해석하고 비즈니스 인사이트 도출
+- **데이터 시각화:** Seaborn, ggplot2 등을 활용하여 분석 결과를 명확하게 전달하고 설득력 있는 리포트 작성
+- **모니터링 시스템 활용:** Prometheus, Grafana를 활용한 시스템/데이터 모니터링 대시보드 구축 및 운영 경험 (<- Tech Stack의 도구와 연결)
+
 
 ## 🎓 Education
-- **[단국대학교]** | **[정보통계학과]**
-  * *[2021.03 ~ ]* (재학)
-- **[Certification]**
-  * ADSP, SQLD, Linux master 2급, 컴퓨터활용능력1급, TOEIC715, 1종대형운전면허
+- **학교:** 단국대학교
+- **전공:** 정보통계학과
+- **기간:** 2021.03 ~ (재학)
+
+
+## 📜 Certification
+- ADSP (한국데이터산업진흥원, 2024)
+- SQLD (한국데이터산업진흥원, 2024)
+- Linux master 2급 (한국정보통신진흥협회, 2024)
+- 컴퓨터활용능력1급(대한상공회의소, 2025)
+- TOEIC715(ETS, 2024)
 
 
 ## 🌱 Learning Goals
-- 이번 오픈소스SW개발 과목을 계기로 머신러닝 모델 개발을 넘어, Docker, MLflow 등을 활용해 개발된 모델을 안정적으로 배포/운영하는 MLOps 역량을 확보하는 것을 목표로 하고 있습니다.
-- 제가 가지고 있는 전공 지식을 강화하고 심화하여 
+- 현재의 머신러닝 모델링 역량을 시계열 분석(Time Series Analysis)과 딥러닝(Deep Learning) 분야로 확장하여, 더 복잡하고 다양한 형태의 데이터를 다룰 수 있는 역량을 확보하는 것을 목표로 하고 있습니다.
+- 제가 가지고 있는 전공 지식을 강화하고 심화하여, 통계적 가설 검정 및 추론 능력을 바탕으로 비즈니스 문제 해결의 논리적 근거를 제시하는 전문가로 성장하고자 합니다.
 
 
 
 ## 🛠️ Tech Stack
 
-### ◾ Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+| 분야 | 기술 스택 |
+| :--- | :--- |
+| **Language** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> |
+| **Data Analysis & ML** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=R&logoColor=white"> |
+| **DevOps, Monitoring & Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"> |
 
-### ◾ Data Analysis & ML
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-### ◾ Database & Etc.
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-
-
+<br>
 
 ## 🚀 Projects
 
-### 1. [미국 지역 특성을 활용한 폭력 범죄율 예측 분석]
-- **설명:** [미국 내 지역 사회의 미국 연구조사의 사회경제적 데이터, 법 집행 데이터, 범죄 데이터를 활용하여 범죄율을 예측하는 여러가지 머신러닝 모델들을 적합하고 성능을 비교하였습니다.]
-- **기간:** [2025]
-- **주요 기능:**
-    - [KNN Regression, Linear Regression, Regression Tree, Random Forest Regression]
-- **사용 기술:** R, Rstudio
-- **성과:** 
-- **🔗 Repository:** [[링크]](https://github.com/ANich479/US-Crime-Prediction)
+### 1. 미국 지역 특성을 활용한 폭력 범죄율 예측 분석
+- **[ 프로젝트 요약 ]**
+    - 미국 내 지역 사회의 미국 연구조사의 사회경제적 데이터, 법 집행 데이터, 범죄 데이터를 활용하여, 폭력 범죄율 예측을 위한 4가지 주요 머신러닝 회귀 모델의 적합 및 성능 비교 분석.
+- **[ 주요 역할 및 활동 ]**
+    - 데이터 스케일링(Min-Max, Standard) 및 전처리 수행
+    - KNN Regression, Linear Regression, Regression Tree, Random Forest 모델 구현
+    - 모델별 예측 성능을 RMSE, R-squared 지표로 비교 평가 및 최적 모델 선정
+- **[ 핵심 성과 ]**
+    - **(예시) Random Forest 모델이 RMSE 0.XX로 타 모델 대비 가장 우수한 예측 성능**을 보임
+    - (예시) 변수 중요도 분석을 통해 'OOO' 변수가 범죄율 예측에 가장 큰 영향을 미치는 것을 확인
+- **[ 사용 기술 ]**
+    - R, Rstudio
+- **[ 시각화 결과 ]**
+    - (여기에 이미지 태그를 삽입합니다. 예: images 폴더에 project1_models.png를 업로드한 경우)
+    - `![모델별 성능 비교](./images/project1_models.png)`
+- **[ 🔗 Repository ]**
+    - [[링크]](https://github.com/ANich479/US-Crime-Prediction)
 
-### 2. [운동 여부가 심혈관 질환에 미치는 영향]
-- **설명:** [Kaggle의 Cardiovascular Disease dataset을 활용하여 운동 여부가 심혈관 질환 발생의 미치는 영향을 통계적으로 분석하였습니다. 이를 위해 공변량의 분포를 비교하고, 로지스틱 회귀 분석을 통해 운동 여부의 효과를 추정하였으며, 교호작용 및 모델의 예측력을 AUC 지표를 통해 추가적으로 검토하였습니다.]
-- **기간:** [2025]
-- **주요 기능:** ...
-- **사용 기술:** ... R, Rstudio
-- **🔗 Repository:** [[링크]](https://github.com/ANich479/cardio-exercise-analysis)
+---
 
+### 2. 운동 여부가 심혈관 질환에 미치는 영향
+- **[ 프로젝트 요약 ]**
+    - Kaggle의 Cardiovascular Disease 데이터셋을 활용하여, 운동 여부가 심혈관 질환 발생에 미치는 영향을 통계적으로 분석 및 로지스틱 회귀 모델의 예측력 검토.
+- **[ 주요 역할 및 활동 ]**
+    - 데이터 전처리 및 공변량 분포 비교
+    - 로지스틱 회귀 분석을 통한 운동 여부의 효과(Odds Ratio) 추정
+    - 교호작용(Interaction effect) 검토 및 모델의 예측력(AUC) 평가
+- **[ 핵심 성과 ]**
+    - **(예시) 운동을 하는 그룹이 그렇지 않은 그룹에 비해 심혈관 질환 발생 확률이 O.XX배 낮음**을 통계적으로 확인함 (p<0.05)
+    - (예시) 구축된 로지스틱 회귀 모델의 **AUC 성능 0.XX** 달성
+- **[ 사용 기술 ]**
+    - R, Rstudio
+- **[ 시각화 결과 ]**
+    - (여기에 이미지 태그를 삽입합니다. 예: images 폴더에 project2_roc.png를 업로드한 경우)
+    - `![ROC-AUC 커브](./images/project2_roc.png)`
+- **[ 🔗 Repository ]**
+    - [[링크]](https://github.com/ANich479/cardio-exercise-analysis)
+ 
 
 
 ## 📊 GitHub Stats

@@ -15,8 +15,8 @@
 ## ✨ Core Competencies
 - **데이터 분석 및 모델링:** Python(Pandas, Scikit-learn) 및 R을 활용하여 데이터 전처리, EDA, 머신러닝(회귀, 분류) 모델 구축 및 성능 평가
 - **통계적 추론 및 분석:** 로지스틱 회귀, 가설 검정 등 통계 지식을 기반으로 데이터의 유의미성을 해석하고 비즈니스 인사이트 도출
-- **데이터 시각화:** Seaborn, ggplot2 등을 활용하여 분석 결과를 명확하게 전달하고 설득력 있는 리포트 작성
-- **모니터링 시스템 활용:** Prometheus, Grafana를 활용한 시스템/데이터 모니터링 대시보드 구축 및 운영 경험 (<- Tech Stack의 도구와 연결)
+- **데이터 시각화:** Seaborn, ggplot2 등의 시각화 라이브러리을 활용하여 분석 결과를 명확하게 전달하고 설득력 있는 리포트 작성
+- **모니터링 시스템 활용:** Prometheus, Grafana를 활용한 시스템/데이터 모니터링 대시보드 구축 및 운영 경험
 
 
 ## 🎓 Education
@@ -64,8 +64,7 @@
 - **[ 사용 기술 ]**
     - R, Rstudio
 - **[ 시각화 결과 ]**
-    - (여기에 이미지 태그를 삽입합니다. 예: images 폴더에 project1_models.png를 업로드한 경우)
-    - `![모델별 성능 비교](./images/project1_models.png)`
+    - <img src="./images/comparison_of_model.png" alt="모델별 성능 비교" width="300"> <img src="./images/results_analysis.png" alt="결과 해석" width="300">
 - **[ 🔗 Repository ]**
     - [[링크]](https://github.com/ANich479/US-Crime-Prediction)
 
@@ -84,8 +83,7 @@
 - **[ 사용 기술 ]**
     - R, Rstudio
 - **[ 시각화 결과 ]**
-    - (여기에 이미지 태그를 삽입합니다. 예: images 폴더에 project2_roc.png를 업로드한 경우)
-    - `![ROC-AUC 커브](./images/project2_roc.png)`
+    - <img src="./images/interaction_effect.png" alt="교호작용 분석" width="300"> <img src="./images/performance_of_model.png" alt="모델 성능" width="300"> <img src="./images/summary_of_result.png" alt="결과 요약" width="300">
 - **[ 🔗 Repository ]**
     - [[링크]](https://github.com/ANich479/cardio-exercise-analysis)
  

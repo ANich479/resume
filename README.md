@@ -1,7 +1,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=5E548E&height=120&section=header&text=Ichan's%20Data%20Science%20Portfolio&fontSize=40&fontColor=ffffff)
 
-## 👋 안녕하세요, 데이터로 인사이트를 얻고 가치를 만드는 Data Scientist로 성장하고 있는 김이찬입니다.
+# 👋 안녕하세요, 데이터로 인사이트를 얻고 가치를 만드는 Data Scientist로 성장하고 있는 김이찬입니다.
 
 
 <br>

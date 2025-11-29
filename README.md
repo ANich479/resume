@@ -24,7 +24,7 @@
 - SQLD (한국데이터산업진흥원, 2024)
 - Linux master 2급 (한국정보통신진흥협회, 2024)
 - 컴퓨터활용능력1급(대한상공회의소, 2025)
-- TOEIC715(ETS, 2024)
+- TOEIC745(ETS, 2024)
 
 
 ## ✨ Core Competencies
